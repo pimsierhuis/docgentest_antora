@@ -3,7 +3,7 @@ site:
   start_page: component-b::index.adoc 
 content:
   sources: 
-  - url: 'file://./asciidoc'
+  - url: '.'
 ui: 
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
