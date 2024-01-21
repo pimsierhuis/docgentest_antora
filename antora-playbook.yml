@@ -1,6 +1,6 @@
 site:
   title: Antora Docs
-  start_page: index.adoc 
+  start_page: ROOT::index.adoc 
 content:
   sources: 
   - url: '.'
