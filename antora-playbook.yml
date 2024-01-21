@@ -3,4 +3,4 @@ site:
   start_page: component-b::index.adoc 
 content:
   sources: 
-  - url: file://./asciidoc
+  - url: 'file://./asciidoc'
